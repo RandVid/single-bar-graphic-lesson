@@ -4,7 +4,6 @@ import unittest
 from task import draw_graph
 
 
-# todo: replace this with an actual test
 class TestCase(unittest.TestCase):
     def test_draw_graph(self):
         # Call the draw_graph function

@@ -5,7 +5,6 @@ import pandas as pd
 from task import import_dataset
 
 
-# todo: replace this with an actual test
 class TestCase(unittest.TestCase):
 
     def test_import(self):
