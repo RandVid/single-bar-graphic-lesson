@@ -21,8 +21,8 @@ def draw_graph():
         hue=,
         kind='count',
         order=,
-        height=,  # controls the height of the plot in inches
-        aspect=  # controls the width of the plot
+        height=,
+        aspect=
     )
 
     """ save the plot """
