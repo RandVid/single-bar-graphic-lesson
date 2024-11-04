@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: example.png
+    visible: false
+  - name: dataset.csv
+    visible: true
+  - name: tests/__init__.py
+    visible: false
+    propagatable: false
+  - name: tests/test_task.py
+    visible: false
+    propagatable: false
